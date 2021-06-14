@@ -1,7 +1,7 @@
 # Netflix-Native-Project
 A small and simple example app with navigation, data persistence, listview and animation!
 
-
+https://user-images.githubusercontent.com/74592979/121865026-22683d80-cd1b-11eb-8563-b7c8cd3beb83.mp4
 
 ## Install and run on android
 ```
