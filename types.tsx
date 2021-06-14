@@ -9,14 +9,36 @@ export type RootStackParamList = {
 };
 
 export type BottomTabParamList = {
-  TabOne: undefined;
-  TabTwo: undefined;
+  "Home": undefined;
+  "Coming Soon": undefined;
+  "Search": undefined;
+  "Download": undefined;
 };
 
 export type TabOneParamList = {
-  TabOneScreen: undefined;
+  "MovieDetailsScreen": undefined;
+  "Home Screen" : undefined;
+  "LandingScreen": undefined;
 };
 
 export type TabTwoParamList = {
-  TabTwoScreen: undefined;
+  "Coming Soon Screen": undefined;
 };
+
+export type TabThreeParamList = {
+  "Search Screen": undefined
+}
+
+export type TabFourParamList = {
+  "Download Screen": undefined;
+}
+
+export type Episode = {
+  id: string;
+  title: string;
+  poster: string;
+  duration: string;
+  plot: string;
+  video: string;
+};
+
