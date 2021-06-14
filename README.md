@@ -19,5 +19,3 @@ npm install
 react-native run-ios
 ```
 
-[innFactory - iOS & Android Entwicklung](https://innFactory.de)
-
